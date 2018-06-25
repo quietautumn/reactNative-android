@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_close.png",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/mipmap-xhdpi-v4/ic_close.png"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/bg_face_round.png",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/mipmap-xhdpi-v4/bg_face_round.png"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_enable_sound.png",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/mipmap-xhdpi-v4/ic_enable_sound.png"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_disable_sound.png",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/mipmap-xhdpi-v4/ic_disable_sound.png"
+    }
+]

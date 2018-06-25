@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi/bg_main.png",
+        "source": "/workspace/test/page/android/app/src/main/res/mipmap-xxhdpi/bg_main.png"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi/bg_register.png",
+        "source": "/workspace/test/page/android/app/src/main/res/mipmap-xxhdpi/bg_register.png"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_example_settings.png",
+        "source": "/workspace/test/page/android/app/src/main/res/mipmap-xxhdpi/ic_example_settings.png"
+    }
+]

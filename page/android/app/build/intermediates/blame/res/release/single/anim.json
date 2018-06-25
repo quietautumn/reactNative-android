@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/mht/.android/build-cache/547622cd407a9ac9fd6ad6226f9512eba3b5ae00/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/mht/.android/build-cache/547622cd407a9ac9fd6ad6226f9512eba3b5ae00/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/mht/.android/build-cache/547622cd407a9ac9fd6ad6226f9512eba3b5ae00/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/mht/.android/build-cache/547622cd407a9ac9fd6ad6226f9512eba3b5ae00/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/mht/.android/build-cache/547622cd407a9ac9fd6ad6226f9512eba3b5ae00/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/mht/.android/build-cache/547622cd407a9ac9fd6ad6226f9512eba3b5ae00/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/mht/.android/build-cache/d4a535f620ac1e0533b7877cc546ba9758d9cdcd/output/res/anim/abc_popup_enter.xml"
+    }
+]

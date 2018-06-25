@@ -1,0 +1,3 @@
+rootProject.name = 'page'
+
+include ':app', ':faceplatform-ui', ':faceplatform-release'

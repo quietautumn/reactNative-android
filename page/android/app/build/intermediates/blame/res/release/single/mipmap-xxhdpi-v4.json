@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_warning.png",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/mipmap-xxhdpi-v4/ic_warning.png"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_enable_sound_ext.png",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/mipmap-xxhdpi-v4/ic_enable_sound_ext.png"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_disable_sound_ext.png",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/mipmap-xxhdpi-v4/ic_disable_sound_ext.png"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/bg_splash.jpg",
+        "source": "/workspace/test/page/android/app/src/main/res/mipmap-xxhdpi/bg_splash.jpg"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_close_ext.png",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/mipmap-xxhdpi-v4/ic_close_ext.png"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_success.png",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/mipmap-xxhdpi-v4/ic_success.png"
+    }
+]

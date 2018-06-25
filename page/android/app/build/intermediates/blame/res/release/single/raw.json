@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/raw/liveness_head_right.mp3",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/raw/liveness_head_right.mp3"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/raw/liveness_head_up.mp3",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/raw/liveness_head_up.mp3"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/raw/liveness_head_left.mp3",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/raw/liveness_head_left.mp3"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/raw/liveness_eye.mp3",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/raw/liveness_eye.mp3"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/raw/detect_face_in.mp3",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/raw/detect_face_in.mp3"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/raw/liveness_mouth.mp3",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/raw/liveness_mouth.mp3"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/raw/liveness_head_down.mp3",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/raw/liveness_head_down.mp3"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/raw/face_good.mp3",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/raw/face_good.mp3"
+    },
+    {
+        "merged": "/workspace/test/page/android/app/build/intermediates/res/merged/release/raw/liveness_head_left_right.mp3",
+        "source": "/workspace/test/page/android/faceplatform-ui/build/intermediates/bundles/default/res/raw/liveness_head_left_right.mp3"
+    }
+]
